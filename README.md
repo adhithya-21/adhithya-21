@@ -1,4 +1,4 @@
- About Me:
+
 🔭 I’m currently working on<br><br>A MERN stack web application, focused on delivering a dynamic and scalable platform with MongoDB, Express.js, React, and Node.js.<br><br>👯 I’m looking to collaborate on<br><br>Full-stack development, business analytics, and project management projects where I can apply both technical and analytical skills.<br><br>🤝 I’m looking for help with<br><br>Exploring DevOps tools and best practices for automating CI/CD pipelines and optimizing project workflows.<br><br>🌱 I’m currently learning<br><br>Docker, GitHub Actions, Kubernetes basics, and data-driven decision-making techniques through business analytics tools like Power BI and Excel.<br><br>💬 Ask me about<br><br>MERN development, UI/UX design, business analytics, or software project management strategies.<br><br>⚡ Fun fact<br><br>I enjoy connecting technical innovation with real-world business insights — because great software solves both user problems and business goals!
 
 
